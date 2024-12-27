@@ -36,7 +36,4 @@ bin/
 /target/
 /out/
 .idea/
-.vscode/
-.classpath
-.project
 *.iml
