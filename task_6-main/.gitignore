@@ -27,3 +27,16 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
+/target/
+/out/
+.idea/
+.vscode/
+.classpath
+.project
+*.iml
